@@ -32,6 +32,7 @@ li::after{content:'';
 height:5px;
 width:0;
 position:absolute;
+          width:fit-content;
 top:84%;
 left:50%;
 transform:translate(-50%,-50%);
